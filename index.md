@@ -21,16 +21,18 @@ Next plan is about wiki.(plz wait)
 
 
 ### LINK
-    here is my main share and record respository:
+here is my main share and record respository:
+
 [MAIN_code_record](https://github.com/Wu-Fisher/my_code_learning_hub)
     
-    record my code way now: mainly in algorithm questions
+record my code way now: mainly in algorithm questions
 [MY_resume](https://github.com/Wu-Fisher/my_code_learning_hub/blob/main/resume/Resume.md)
 
-    easily change by time. now 2022/2/23
+easily change by time. now 2022/2/23
+
 [WIKI]()
 
-    plz wait. BLOG will be here soon.
+plz wait. BLOG will be here soon.
 
 
 
